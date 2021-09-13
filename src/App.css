@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 80%;
+  padding: 1rem;
+}
+
+#emoji {
+  padding: 1rem;
+}
+
+span {
+  padding: 0.5rem;
+  
+}
+
+span:hover {
+  cursor: pointer;
+}
+
+#meaning {
+  padding: 1rem;
+  font-size: 30px;
+}
+
+img{
+  width: 20%;
+}
