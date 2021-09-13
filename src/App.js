@@ -42,7 +42,7 @@ function App() {
   return (
     <div className="App">
       <aside>
-      <img src={image}></img>
+      <img src={image} alt="illustration"></img>
       </aside>
       <h1>Emoji Interpreter</h1>
       <input
